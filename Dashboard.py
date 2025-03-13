@@ -8,7 +8,7 @@ st.title("Dashboard Penyewaan Sepeda🚲")
 st.text('Oleh: Yeni Ckrisdayanti Manalu')
 
 # Load data
-df = pd.read_csv("C:/Users/Lenovo/Downloads/data_penyewaan.csv")
+df = pd.read_csv("data_penyewaan.csv")
 
 #Pertanyaan nomor 1
 # Sidebar for Year and Month filters
